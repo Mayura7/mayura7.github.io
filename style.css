@@ -1,13 +1,20 @@
 body{
-  font-size: 16px;
-  background: #ffffff;
-  color: #000000;
+  font-family:"monotype corsiva";
+  font-size: 50px;
+  background: black;
+  color: white;
   text-align: left;
 }
 
 @media only screen and (max-width: 600px) {
-  
+
 body{
    background-color: #ffffff;
   }
+}
+
+.lc{
+  fontsize: 25px;
+  color:#d14d53;
+  font-family: monospace;
 }
